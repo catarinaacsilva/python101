@@ -13,7 +13,7 @@ Python Foundation
 1. Create a Virtual Environment: `python3 -m venv venv`
 2. Run: `source venv/bin/activate`
 3. Run: `pip install -r requirements.txt`
-4. Run: `jupyter lab`
+4. Run: `jupyter-notebook`
 
 ## Run - Windows OS
 
