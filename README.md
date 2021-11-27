@@ -3,24 +3,23 @@
 Python Foundation
 
 
+![Jupyter](images/jupyter.png)
+
+
 ## Install
 
 -  Python 3
+-  Anaconda
 
 
-## Run - Linux OS
+#### Install - Linux OS
 
 1. Create a Virtual Environment: `python3 -m venv venv`
 2. Run: `source venv/bin/activate`
 3. Run: `pip install -r requirements.txt`
 4. Run: `jupyter-notebook`
 
-## Run - Windows OS
+#### Install - Windows OS
 
-1. Run `conda install -c conda-forge notebook`
-2. Run `jupyter notebook`
-
-or
-
-1. Run: `conda install -c conda-forge jupyterlab`
-2. Run: `jupyter-lab`
+1. Install [Anaconda](https://www.anaconda.com/products/individual)
+2. Open Jupyter Notebook
