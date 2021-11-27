@@ -3,9 +3,6 @@
 Python Foundation
 
 
-![Jupyter](images/jupyter.png)
-
-
 ## Install
 
 -  Python 3
